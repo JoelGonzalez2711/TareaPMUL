@@ -63,6 +63,4 @@ dependencies {
    // Google Maps
     implementation("com.google.android.gms:play-services-maps:18.0.0")
 
-    //Auth Login
-    implementation("com.firebaseui:firebase-ui-auth:7.2.0")
 }
